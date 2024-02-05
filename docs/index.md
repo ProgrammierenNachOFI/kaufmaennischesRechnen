@@ -22,4 +22,5 @@ späteren Zeitpunkt besprochen.
 Gesucht ist also ein Programm, das basierend auf dem Kapital, dem
 Zinssatz und der Zeitspanne den Zins berechnet. Die dafür erforderlichen
 Grundlagen finden sich in diesem
-[Notebook](https://nbviewer.org/github/ProgrammierenNachOFI/kaufmaennischesRechnen/blob/main/docs/zinsrechnen_sus.ipynb).
+[Notebook](https://colab.research.google.com/github/ProgrammierenNachOFI/kaufmaennischesRechnen/blob/main/docs/zinsrechnen_sus.ipynb).
+Die Musterlösung wird im entsprechenden GitHub Repository zur Verfügung gestellt.
